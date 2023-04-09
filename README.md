@@ -20,22 +20,37 @@ specified by the user. Once the password is generated, it will be displayed on t
 ## :books: Manual
 * In this field, you need to enter the length of your generated password.
 
-![image](https://user-images.githubusercontent.com/112270527/230758482-3b071fd8-b6c5-4691-89d0-820d0b1b1dc8.png)
+```python
+Enter the password length: 12
+
+```
 
 * In this field, you need to answer (y/n) to activate the "special characters" feature.
 
-![image](https://user-images.githubusercontent.com/112270527/230758541-65c4b3e9-bdd3-4f53-a1c1-7c5d65606ead.png)
+```python
+Use special characters? (y/n): y
+```
 
 * In this field, you need to answer (y/n) to activate the "numbers" function.
 
-![image](https://user-images.githubusercontent.com/112270527/230758563-101570b6-ec84-4e92-b46f-33e72aef7fb0.png)
+```python
+Use numbers? (y/n): y
+```
 
 * In this field, you need to answer (y/n) to activate the "letters" function.
 
-![image](https://user-images.githubusercontent.com/112270527/230758594-abc01674-f53d-49eb-87cb-83adb0d13944.png)
+```python
+Use letters? (y/n): y
+```
 
 * Ready!
 now you can use this password for your own purposes.
+
+```python
+Generated password: etYU8O/'.uNz
+Press any key to continue . . .
+```
+
 ## :open_book: Contributions
 Contributions to this project are welcome! If you would like to contribute, please fork this repository and submit a pull request with your changes.
 
